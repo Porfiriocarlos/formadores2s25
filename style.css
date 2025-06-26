@@ -1,4 +1,10 @@
 body{
     background-color: black;
-    color:bisque
+    color:bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+    }
+header{
+    border-radius: 2px;
+padding: 25px;
 }
