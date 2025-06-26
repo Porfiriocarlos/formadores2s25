@@ -6,5 +6,6 @@ body{
     }
 header{
     border-radius: 2px;
+    border-bottom: solid 2px blueviolet;
 padding: 25px;
 }
