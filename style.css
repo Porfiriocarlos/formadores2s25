@@ -17,3 +17,9 @@ h1{
     border-bottom: 3px yellowgreen;
     padding: 5px;
 }
+
+section{
+    background-color: rgb(87, 190, 87);
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
