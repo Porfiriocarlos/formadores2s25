@@ -19,7 +19,9 @@ h1{
 }
 
 section{
-    background-color: rgb(87, 190, 87);
-    padding-top: 80px;
-    padding-bottom: 80px;
+    background-color: rgb(167, 45, 130);
+    padding-top: 5px;
+    padding-bottom: 8px;
+    display: flex;
+    justify-content: center;
 }
